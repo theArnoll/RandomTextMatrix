@@ -29,3 +29,6 @@ The same condition above can be achieve with command:
 main.exe 7 2 1
 ```
 If the 2nd and/or the 3rd argument is not given, the default is ` 1 1` (For story, Using the font).
+
+It was a one-time used code at first. Somehow I develop it to a relatively mature tool.\
+I still don't know why I'm putting this much effort actually
