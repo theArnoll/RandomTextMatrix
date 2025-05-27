@@ -21,9 +21,11 @@ chngtyxdycffwyilqqbuu
 dvveqelttlsqqvtinpmrn
 djyjhmofryrksmmyanzln
 ```
-You'll see there are 7 capital letters in the middle of the matrix.
+You can see there are 7 capital letters in the middle of the matrix.
 
-You can quickly use it with command line.
+You can use it more efficiantly with command line.\
 The same condition above can be achieve with command:
-`main.exe 7 2 1`
-If the 2nd and/or the 3rd argument is not given, the default is 1 1 (For story, Using the font).
+```
+main.exe 7 2 1
+```
+If the 2nd and/or the 3rd argument is not given, the default is ` 1 1` (For story, Using the font).
